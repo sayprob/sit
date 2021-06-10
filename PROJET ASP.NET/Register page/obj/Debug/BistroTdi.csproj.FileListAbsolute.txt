@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2013\Projects\BistroTdi\BistroTdi\bin\BistroTdi.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\BistroTdi\BistroTdi\bin\BistroTdi.dll
+c:\users\hp\documents\visual studio 2013\Projects\BistroTdi\BistroTdi\bin\BistroTdi.pdb
+c:\users\hp\documents\visual studio 2013\Projects\BistroTdi\BistroTdi\obj\Debug\BistroTdi.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\BistroTdi\BistroTdi\obj\Debug\BistroTdi.dll
+c:\users\hp\documents\visual studio 2013\Projects\BistroTdi\BistroTdi\obj\Debug\BistroTdi.pdb
